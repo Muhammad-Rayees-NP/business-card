@@ -1,7 +1,3 @@
-Sure, here's a simple README template for a Flutter-based business card app:
-
----
-
 # Flutter Business Card App
 
 This Flutter application is a simple business card that displays your contact information. It's a great starting point for creating your own personalized business card app.
